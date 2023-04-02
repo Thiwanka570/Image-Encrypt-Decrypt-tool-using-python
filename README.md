@@ -1,2 +1,3 @@
-# Image-Encrypt-Decrypt-tool-using-python
-You can use this program to encrypt any image file and decrypt it again.
+You can run this program using cmd "Python3 image_encription_&_Decription.py"
+
+
